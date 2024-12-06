@@ -6,7 +6,7 @@ from io import BytesIO
 import gradio as gr
 import numpy as np
 import torch
-from webcamgpt.core import Qwen2V_SAM2_Connector
+from algorithm.core import Qwen2V_SAM2_Connector
 
 MARKDOWN = """
 # Qwen2V Image Segmentation Demo 💬 + 🖼️
