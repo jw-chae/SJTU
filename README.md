@@ -1,8 +1,5 @@
-추가 내용을 반영한 README는 아래와 같습니다:
 
----
-
-# Image Segmentation with Multiple Vision-Language Models
+# SJTU:SPATIAL_JUDGMENTS_IN_MULTIMODAL_MODELS___TOWARDS_UNIFIED_SEGMENTATION_THROUGH_COORDINATE_DETECTION 
 
 This project implements image segmentation using multiple vision-language models (Qwen2-VL, LLaVA-Next, GPT-4V) combined with SAM2. It provides interfaces for processing both static images and real-time webcam feeds.
 
