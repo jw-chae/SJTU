@@ -2,7 +2,7 @@ import os
 import cv2
 import numpy as np
 import torch
-from webcamgpt.core import Qwen2V_SAM2_Connector,LLaVA_Next_SAM2_Connector,OpanAIConnector
+from algorithm.core import Qwen2V_SAM2_Connector,LLaVA_Next_SAM2_Connector,OpanAIConnector
 
 class BatchImageProcessor:
     def __init__(self, input_dir, output_dir, prompt="segment everything"):
